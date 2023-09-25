@@ -1,0 +1,27 @@
+# Rendered Information
+
+This document provides essential information about the project, including relevant URLs and the last committed hash ID.
+
+## Render URL
+
+- **URL:** https://nodejs-filesystem-1ady.onrender.com
+
+## CreateFile End Point
+- **URL:** https://nodejs-filesystem-1ady.onrender.com/createTextFile
+  
+## Listfiles End Point
+- **URL:** https://nodejs-filesystem-1ady.onrender.com/getTextFiles
+
+## GitHub Repository
+
+- **URL:** https://github.com/abarnaasuren/nodejs-filesystem.git
+
+## API Documentation
+
+- **URL:**https://documenter.getpostman.com/view/593035/2s9YC5wXS1
+
+## Last Committed Hash ID
+
+- **Hash ID:** c91036b7fa7c28a78aaf05d39206fae5b3b6184c
+
+----------------------------------------------------------------------------------------------------------------------------------
